@@ -56953,10 +56953,10 @@
   },
   {
     "id": "simple-link",
-    "name": "Simple Link",
+    "name": "Simple One Sync",
     "author": "zo00oey",
     "description": "Sync an Obsidian vault with Git on desktop or a compatible server on mobile. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zo00oey/simple-link"
+    "repo": "zo00oey/simple-one-sync"
   },
   {
     "id": "xmind-open",
