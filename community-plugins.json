@@ -56891,9 +56891,9 @@
   {
     "id": "simple-one",
     "name": "Simple One",
-    "author": "zo00oey",
+    "author": "ZO.oEY",
     "description": "Format notes, manage diaries and attachments, and streamline links. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zo00oey/simple-plugin"
+    "repo": "zo00oey/simple-one"
   },
   {
     "id": "food-assistant-module",
@@ -56968,7 +56968,7 @@
   {
     "id": "simple-link",
     "name": "Simple Link",
-    "author": "zo00oey",
+    "author": "ZO.oEY",
     "description": "Sync an Obsidian vault with Git on desktop or a compatible server on mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zo00oey/simple-link"
   },
